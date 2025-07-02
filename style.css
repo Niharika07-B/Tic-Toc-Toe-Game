@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f8f9fa;
+    background-color: #e6f7ff;
 }
 
 .container {
@@ -22,19 +22,19 @@ body {
 .square {
     width: 100px;
     height: 100px;
-    background-color: #d0ff00;
+    background-color: #4a90e2;
     color: white;
     font-size: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    border: 2px solid #b3008c;
+    border: 2px solid #ff6b6b;
     border-radius: 5px;
 }
 
 .square:hover {
-    background-color: #00b32d;
+    background-color: #50c878;
 }
 
 .message {
