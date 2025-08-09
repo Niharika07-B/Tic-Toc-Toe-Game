@@ -42,19 +42,30 @@ This  simple project was developed as part of a hands-on session in our college 
 
 ## 🚀 How to Run
 
-1. Clone or download the repository.
-2. Open `index.html` in your browser.
+### Option 1 – Clone via Git
 
-```
+1. Clone the repository:
 
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
-open index.html
-No installations needed – just open and play!
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+   cd tic-tac-toe
+   ```
+2. Open `index.html` directly in your browser
+   *(No installations needed – just open and play!)*
 
-```
+---
 
-----
+### Option 2 – Download ZIP
+
+1. Click the **Code** button on this repo and select **Download ZIP**.
+2. Extract (unzip) the folder.
+3. Open the folder in **VS Code**.
+4. Install the **Live Server** extension (if not already installed).
+5. Right-click `index.html` → **Open with Live Server**.
+6. Play the game in your browser.
+
+---
+
 
 ## ✨ Credits
 
