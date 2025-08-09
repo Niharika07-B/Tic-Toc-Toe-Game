@@ -36,6 +36,12 @@ This  simple project was developed as part of a hands-on session in our college 
 
 ---
 
+## 🎯 Play the Game
+Experience the live version **online**, no setup needed:  
+[https://tic-toc-toe-game-niha1.vercel.app/](https://tic-toc-toe-game-niha1.vercel.app/)
+
+---
+
 # 📁 Files
 
 ```
