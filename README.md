@@ -23,6 +23,17 @@ This  simple project was developed as part of a hands-on session in our college 
 - Restart button to reset the game
 
 ---
+# 👉🏽Languages
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-ff6f61?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4a90e2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
 
 # 🖼️ Screenshots
 
